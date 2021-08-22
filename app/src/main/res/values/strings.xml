@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Game Directory</string>
+    <string name="creator">Ibnu Fathan</string>
+    <string name="genre">Genre</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="released">Released</string>
+    <string name="favorite">Favorite</string>
+    <string name="platform">Platform</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer">Developer</string>
+    <string name="gameUrl">Game URL</string>
+
+    <string name="error_message">Maaf Ada Kesalah, Mohon Muat Ulang Aplikasi</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="title_favorite">Favorite</string>
+</resources>

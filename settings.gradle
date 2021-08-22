@@ -1,0 +1,4 @@
+rootProject.name = "Game Directory"
+include ':app'
+include ':core'
+include ':favorite'
